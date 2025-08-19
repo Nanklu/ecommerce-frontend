@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# ecommerce-frontend" 
 "# ecommerce-frontend" 
 "# frontend-ecommerce" 
+"# frontend-ecommerce" 
